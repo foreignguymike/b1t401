@@ -1,7 +1,13 @@
 b1t401.png
-size:64,64
+size:256,256
 repeat:none
+bg1
+bounds:2,45,240,181
 pixel
-bounds:2,2,1,1
-player
-bounds:2,5,39,37
+bounds:244,225,1,1
+playeridle
+bounds:2,2,63,41
+playerkick
+bounds:132,2,63,41
+playerpunch
+bounds:67,2,63,41

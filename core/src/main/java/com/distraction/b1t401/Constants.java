@@ -6,7 +6,7 @@ import com.badlogic.gdx.graphics.Color;
 public class Constants {
 
     public static final String TITLE = "something";
-    public static final int WIDTH = 320;
+    public static final int WIDTH = 240;
     public static final int HEIGHT = 180;
     public static final int SCALE = 4;
     public static final int SWIDTH = WIDTH * SCALE;
